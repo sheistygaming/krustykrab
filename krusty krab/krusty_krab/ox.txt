@@ -1,0 +1,66 @@
+-- Krusty Krab Items
+['krabby_patty'] = {
+    label = 'Krabby Patty',
+    weight = 250,
+    stack = true,
+    close = true,
+    description = 'A delicious Krabby Patty.'
+},
+
+['krabby_fries'] = {
+    label = 'Krabby Fries',
+    weight = 200,
+    stack = true,
+    close = true,
+    description = 'Freshly cooked fries.'
+},
+
+['krabby_cola'] = {
+    label = 'Krabby Cola',
+    weight = 300,
+    stack = true,
+    close = true,
+    description = 'A refreshing cola.'
+},
+
+['meat'] = {
+    label = 'Raw Patty Meat',
+    weight = 250,
+    stack = true
+},
+
+['lettuce'] = {
+    label = 'Lettuce',
+    weight = 100,
+    stack = true
+},
+
+['cheese'] = {
+    label = 'Cheese',
+    weight = 100,
+    stack = true
+},
+
+['bun'] = {
+    label = 'Burger Bun',
+    weight = 100,
+    stack = true
+},
+
+['potato'] = {
+    label = 'Potato',
+    weight = 150,
+    stack = true
+},
+
+['water'] = {
+    label = 'Water',
+    weight = 300,
+    stack = true
+},
+
+['cola_syrup'] = {
+    label = 'Cola Syrup',
+    weight = 100,
+    stack = true
+}
